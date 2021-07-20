@@ -2,7 +2,7 @@
 
 
 ### Front-end + pentester and more
-👋 Hi! I'm Jorge, I love launching products and share with how to do the same. Hope you find usuful my public repos. You can also find me in likendin and in tryhackme. [in my web](https://jorgegso.github.io/portafolioPrincipal/). Free to reach out.
+👋 Hi! I'm Jorge, I love launching products and share with how to do the same. Hope you find usuful my public repos. You can also find me in likendin and tryhackme. [in my web](https://jorgegso.github.io/portafolioPrincipal/). Free to reach out.
 
 
 
