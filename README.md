@@ -15,6 +15,7 @@
 ### Hot links
 - 👀 https://www.linkedin.com/in/jorge-sosa-6b47141a6
 - 🐉 https://tryhackme.com/p/mikimiki21
+- 👻 https://jorgegso.github.io/portafolioPrincipal
 
 <!--
 **jorgegso/jorgegso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
