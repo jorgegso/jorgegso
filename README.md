@@ -12,18 +12,4 @@
 - ⚡ Fun fact: hotel manager and tourism technician ...
 
 
-### Hot links
-- 👀 https://www.linkedin.com/in/jorge-sosa-arg/
-- 🐉 https://tryhackme.com/p/mikimiki21
-- 👻 https://jorgegso.github.io/portafolioPrincipal
 
-<!--
-**jorgegso/jorgegso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
